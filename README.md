@@ -7,7 +7,7 @@
   </p>
   <ul>
     <li>🔭 I work on systems development using the Laravel framework and tools such as Tailwind and Livewire to optimize code quality and efficiency</li>
-    <li>🌱 I’m currently learning <b>React, React Native, Swift</b></li>
+    <li>🌱 I’m currently learning <b>React</b></li>
   </ul>
 </div>
 <h2 align="left">Languages and tools:</h2>
